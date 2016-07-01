@@ -1,22 +1,22 @@
 {
-  "name" : "dodgepudding/wechat-php-sdk",
+  "name" : "yangjy15033/wechat-php-sdk",
   "description" : "the wechat api library without framework dependency",
-  "version" : "1.1",
+  "version" : "1.2",
   "require" : {
     "php" : ">=5.1.0"
   },
   "authors" : [ {
-    "name" : "dodgepudding",
-    "email" : "dodgepudding@gmail.com"
+    "name" : "yangjy15033",
+    "email" : "yangjy15033@gmail.com"
   }, {
     "name" : "binsee",
     "email" : "binsee@163.com"
   } ],
   "keywords" : [ "wechat", "weixin", "thinkphp", "sample" ],
   "support" : {
-    "issues" : "https://github.com/dodgepudding/wechat-php-sdk/issues",
-    "wiki" : "https://github.com/dodgepudding/wechat-php-sdk/wiki",
-    "source" : "https://github.com/dodgepudding/wechat-php-sdk"
+    "issues" : "https://github.com/yangjy15033/wechat-php-sdk/issues",
+    "wiki" : "https://github.com/yangjy15033/wechat-php-sdk/wiki",
+    "source" : "https://github.com/yangjy15033/wechat-php-sdk"
   },
   "autoload" : {
     "psr-4" : {
